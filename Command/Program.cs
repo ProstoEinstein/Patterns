@@ -1,4 +1,5 @@
 ﻿using System;
+using Command.Commands;
 
 namespace Command
 {
@@ -6,7 +7,13 @@ namespace Command
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Command patternd!");
+            Computer computer = new Computer();
+            User user = new User(new StartCommand(computer), new StopCommand(computer), new ResetCommand(computer));
+
+
+            user.StartComputer();
+            user.StopComputer();
+            user.ResetComputer();
         }
     }
 }

@@ -2,17 +2,17 @@ namespace Command
 {
     sealed class Computer
     {
-        void Start()
+        public void Start()
         {
             System.Console.WriteLine("Start");
         }
 
-        void Stop()
+        public void Stop()
         {
             System.Console.WriteLine("Stop");
         }
 
-        void Reset()
+        public void Reset()
         {
             System.Console.WriteLine("Reset");
         }
