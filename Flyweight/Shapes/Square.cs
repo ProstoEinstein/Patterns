@@ -2,7 +2,7 @@ using Flyweight.Interface;
 
 namespace Flyweight.Shapes
 {
-    class Square : IShape
+    sealed class Square : IShape
     {
         int side = 10;
         public void Draw(int x, int y)

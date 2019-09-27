@@ -4,7 +4,7 @@ using Flyweight.Shapes;
 
 namespace Flyweight
 {
-    class ShapeFactory
+    sealed class ShapeFactory
     {
         private static Dictionary<string, IShape> shapes = new Dictionary<string, IShape>();
 

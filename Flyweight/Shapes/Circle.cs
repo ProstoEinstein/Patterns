@@ -2,7 +2,7 @@ using Flyweight.Interface;
 
 namespace Flyweight.Shapes
 {
-    class Circle : IShape
+    sealed class Circle : IShape
     {
         int radius = 5;
         public void Draw(int x, int y)
