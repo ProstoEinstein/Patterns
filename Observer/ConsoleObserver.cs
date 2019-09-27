@@ -3,7 +3,7 @@ using Observer.Interfaces;
 
 namespace Observer
 {
-    class ConsoleObserver : IObserver
+    sealed class ConsoleObserver : IObserver
     {
         public void HandleEvent(double temperature, double pressure)
         {

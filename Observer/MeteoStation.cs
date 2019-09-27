@@ -4,7 +4,7 @@ using Observer.Interfaces;
 
 namespace Observer
 {
-    class MeteoStation : IObsevable
+    sealed class MeteoStation : IObsevable
     {
         double temperature = 0;
         double pressure = 0;

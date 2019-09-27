@@ -4,7 +4,7 @@ using Observer.Interfaces;
 
 namespace Observer
 {
-    internal class FileObserver : IObserver
+    sealed class FileObserver : IObserver
     {
         public void HandleEvent(double temperature, double pressure)
         {
