@@ -13,7 +13,7 @@ namespace Decorator
 
         public void Print()
         {
-            System.Console.WriteLine(value);
+            System.Console.Write(value);
         }
     }
 }

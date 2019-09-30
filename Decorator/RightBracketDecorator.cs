@@ -14,7 +14,7 @@ namespace Decorator
         public void Print()
         {
             component.Print();
-            System.Console.WriteLine("]");
+            System.Console.Write("]");
         }
     }
 }
