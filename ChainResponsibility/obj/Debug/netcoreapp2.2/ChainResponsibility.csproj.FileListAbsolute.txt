@@ -1,0 +1,11 @@
+D:\Projects\Patterns\ChainResponsibility\bin\Debug\netcoreapp2.2\ChainResponsibility.deps.json
+D:\Projects\Patterns\ChainResponsibility\bin\Debug\netcoreapp2.2\ChainResponsibility.runtimeconfig.json
+D:\Projects\Patterns\ChainResponsibility\bin\Debug\netcoreapp2.2\ChainResponsibility.runtimeconfig.dev.json
+d:\Projects\Patterns\ChainResponsibility\bin\Debug\netcoreapp2.2\ChainResponsibility.dll
+d:\Projects\Patterns\ChainResponsibility\bin\Debug\netcoreapp2.2\ChainResponsibility.pdb
+d:\Projects\Patterns\ChainResponsibility\obj\Debug\netcoreapp2.2\ChainResponsibility.csprojAssemblyReference.cache
+d:\Projects\Patterns\ChainResponsibility\obj\Debug\netcoreapp2.2\ChainResponsibility.csproj.CoreCompileInputs.cache
+d:\Projects\Patterns\ChainResponsibility\obj\Debug\netcoreapp2.2\ChainResponsibility.AssemblyInfoInputs.cache
+d:\Projects\Patterns\ChainResponsibility\obj\Debug\netcoreapp2.2\ChainResponsibility.AssemblyInfo.cs
+d:\Projects\Patterns\ChainResponsibility\obj\Debug\netcoreapp2.2\ChainResponsibility.dll
+d:\Projects\Patterns\ChainResponsibility\obj\Debug\netcoreapp2.2\ChainResponsibility.pdb
